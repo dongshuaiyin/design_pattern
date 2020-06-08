@@ -1,7 +1,7 @@
 package com.dsy.pattern.arithmetic.binarySearch;
 
 /**
- * 稍微提升一点的二分查找你算法
+ * 稍微提升一点的二分查找算法--只是针对有序数组才能使用二分查找
  */
 public class BinarySearch {
 
